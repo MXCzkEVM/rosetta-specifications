@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">
-   Rosetta Specifications
+   Rosetta MXC zkEVM
 </h3>
 <p align="center">
 This repository contains all specification files used to generate code for the Rosetta API.
